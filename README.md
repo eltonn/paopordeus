@@ -1,6 +1,6 @@
-# Pão por Deus
+# Pão-por-Deus
 
-Site institucional da Casa de Eventos Pão por Deus.
+Site institucional da Casa de Eventos Pão-por-Deus.
 
 ## Contato
 - Instagram: [@pao_por_deus](https://www.instagram.com/pao_por_deus/)
