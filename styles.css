@@ -31,6 +31,18 @@ img {
   display: block;
 }
 
+.photo-grid img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: var(--radius);
+}
+
+.photo-item {
+  overflow: hidden;
+  border-radius: var(--radius);
+}
+
 a {
   color: inherit;
   text-decoration: none;
@@ -144,24 +156,6 @@ button, .button {
 .hero-image {
   display: grid;
   place-items: center;
-}
-
-.qrcode-card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 1.5rem;
-  text-align: center;
-}
-
-.qrcode-card p {
-  margin: 0 0 1rem;
-}
-
-.qrcode-note {
-  margin-top: 0.85rem;
-  font-size: 0.95rem;
-  color: var(--muted);
 }
 
 .section {
